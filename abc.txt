@@ -1,2 +1,4 @@
 learn git by golang examples
 2019-04-11
+
+note for JDcloud
